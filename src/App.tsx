@@ -6,8 +6,8 @@ export default function App() {
   return (
     <div>
       <Header />
-      <RouteController />
       <Navbar />
+      <RouteController />
     </div>
   );
 }
